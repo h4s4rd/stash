@@ -1,8 +1,10 @@
 # stash
 
-All files are found on the internet just by googling right.
+All files are found on the internet just by googling.
 
-Summary
+I'm NOT the author!
+
+## Summary
 
 | Subject        | Link                      | Description                                                             |
 | -------------  |:------------:             | -------------------------------------------------------:                |
